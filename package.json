@@ -1,0 +1,15 @@
+{
+  "name": "testing-and-deployment",
+  "version": "1.0.0",
+  "description": "ฟีเจอร์หลักของระบบ\r 1. แปลงอุณหภูมิ Celsius --> Fahrenheit | PM(ผิง)\r 2. แปลงระยะทาง Meter --> Kilometer | Tester(ภู)\r 3. แปลงน้ำหนัก Gram --> Kilogram | Dev1(พอใจ)\r 4. แปลงเวลา Minute --> Hour | Dev2(จีเนียส)\r 5. Reset ค่าทั้งหมด | Dev3(ซี)\r 6. ระบบ Login",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
